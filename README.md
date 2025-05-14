@@ -1,6 +1,6 @@
 # Mini Express API
 
-A minimal Express.js app, built as a practice in express apps and deployment. 
+A minimal Express.js app, built as a practice in express apps, API building, and deployment. 
 
 Features:
 - Basic routes (`/hello`, `/echo`, `/protected`)
