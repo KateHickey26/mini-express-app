@@ -78,9 +78,7 @@ curl http://localhost:3000/protected \
 
 ## Deployment
 
-## ☁️ Deployment
-
-### 🌍 Live on Render  
+### Live on Render  
 View the deployed app:  
 https://mini-express-app.onrender.com
 
